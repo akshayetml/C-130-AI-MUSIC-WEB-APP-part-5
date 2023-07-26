@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: rgba(178, 34, 34, 0.452);
+    margin: 0;
+    color: rgb(72, 238, 6);
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    padding: 10px;
+}
+
+
+.note{
+    font-size: 25px;
+    color: darkorange;
+}
+
+canvas{
+        box-shadow: 10px 10px 500px rgb(227, 155, 11);
+        margin-top: 200px;
+        animation-name: abc;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        border-radius: 300px;
+}
+
+.song_name{
+    color: darksalmon;
+    background-color: aqua;
+    font-size: 20px;
+    width: 160px;
+    border-radius: 200px;
+    height: 30px;
+    text-align: center;
+}
